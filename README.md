@@ -13,3 +13,4 @@ A simple weather app using OpenWeatherMap API and Python.
 3. Run: `python weather_app.py`
 
 ## Sample Output
+Project on hold – basic layout done but not continued further. Archived to keep repo clean.
